@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/真！首页/changjingshouye.fire",orientation:"",jsList:[],bundleVers:{internal:"1b082",main:"bfc6e"}};
